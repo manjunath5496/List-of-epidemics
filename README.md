@@ -1,4 +1,6 @@
-<table class="wikitable sortable jquery-tablesorter" style="width: 919px;">
+<h2>List of epidemics </h2>
+
+<table class="wikitable sortable jquery-tablesorter">
 <thead>
 <tr>
 <th class="headerSort" style="width: 159px;" tabindex="0" title="Sort ascending">Event</th>
